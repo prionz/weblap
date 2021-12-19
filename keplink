@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KÉPLINK</title>
+<link rel="stylesheet" href="style.css">
+
+</style>
+
+</head>
+<body>
+<div class="sidebar">
+
+  <a class="active"href="https://dongesz.github.io/WEBLAP/">HOME</a>
+  <a href="https://dongesz.github.io/WEBLAP/keplink">KÉPLINK</a>
+  <a href="https://dongesz.github.io/WEBLAP/listak">LISTÁK </a>
+  <a href="https://dongesz.github.io/WEBLAP/orarend">ÓRAREND</a>
+</div>
+ <div class="content">
+  
+<h1 style="color:white;>prionz zalánn</h1>
+<h2 style="color:white;>Képlink feladat:</h2>
+<a href="https://hu.wikipedia.org/wiki/Ban%C3%A1n">
+
+<img src="https://lh3.googleusercontent.com/proxy/N2wzbWHFmAQ00EW7v_MBHHjBlLK6bqxageZN9gAR7Uzv0P6VUbz_ak_BIetTk6H_ZRsHrpSGa1yV7TFf3u4F2y6hTRLDRNh4Lg" width="500" height="300">
+</a>
+</body>
+</html>
+</html>
